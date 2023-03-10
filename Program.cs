@@ -5,7 +5,7 @@ Console.WriteLine("");
 Console.ForegroundColor = ConsoleColor.Black;
 Console.BackgroundColor = ConsoleColor.White;
 
-Console.Write(@"u m
+Console.Write(@"   u m
      m o v i
      mento
    compondo
@@ -28,3 +28,4 @@ puro
      mento
  vivo
  ;");
+ Console.ResetColor();
